@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=CC0000)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Elixir](https://img.shields.io/badge/-elixir-000?style=for-the-badge&logo=elixir&logoColor=684279)
 
