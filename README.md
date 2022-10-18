@@ -25,4 +25,4 @@
   
 
 [![Nathyane Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=nathyanemoreno&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathyanemoreno&layout=compact&hide=vim%20script,shell&theme=midnight-purple)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathyanemoreno&layout=compact&hide=vim%20script%20hack,shell&theme=midnight-purple)
