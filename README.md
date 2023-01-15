@@ -22,8 +22,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
 
-  
 
-[![Nathyane Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=nathyanemoreno&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Nathyane Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=nathyanemoreno&include_all_commits=true&count_private=true&show_icons=true&hide=prs&line_height=24&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathyanemoreno&layout=compact&hide=hack,vim,assembly,scilab,elixir&theme=midnight-purple)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathyanemoreno&layout=compact&hide=hack,vim,assembly,scilab,elixir&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
